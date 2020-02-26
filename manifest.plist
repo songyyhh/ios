@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://projs.livedata.cn:8101/pms/facilities/version?name=Opespro.ipa</string>
+					<string>http://projs.livedata.cn:8101/facilities/version?name=Opespro.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
