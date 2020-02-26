@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>io.dcloud.OpesPro</string>
 				<key>bundle-version</key>
-				<string>V1.0.1</string>
+				<string>OpesPro(V1.0.1)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
